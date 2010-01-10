@@ -1,0 +1,10 @@
+clj-util:  Clojure utilities I use.  To be updated as I require functions.
+Feel free to take stuff if you want it.
+
+grayswx/util - Mainly for dealing with maps.
+grayswx/util/cast - Type coercion.
+grayswx/util/file - Messing with files.
+grayswx/util/image - Messing with images.
+grayswx/util/os - Figuring out which os you're on.  
+grayswx/util/string - Messing with strings.
+grayswx/util/vector - Messing with vectors.
